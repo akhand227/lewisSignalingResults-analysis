@@ -1,7 +1,9 @@
 ### Lewis Signaling Results from Naturalistic Model
 
 ### Motivation
-Examining the performance of Lewis Signaling model under Naturalistic Conditions. This helps us examine whether the success of Lewis Signaling model is due to its assumptions or does it fare well even under the introduced naturalistic conditions.
+Examining the performance of Lewis Signaling model under Naturalistic Conditions. This helps us examine whether the success of Lewis Signaling model is due to its assumptions or does it fare well even under the introduced naturalistic conditions. Best put  by Skyrms:<br>
+<i>“How do these results generalize? This is not so much a single question as an invitation to
+explore an emerging field. Even the simplest extensions of the models I have shown here are full of surprising and interesting phenomena.”</i>
 
 ### Data 
 Two models have been equipped for this reearch. Model 1 serves as a tool to examine traditional conditions while Model 2 to test for Naturalistic Conditions.  <br>
