@@ -42,9 +42,9 @@ import matplotlib.pyplot as plt
 
  ```
  ### Conclusion
-1. As expected, biased movement outperformes Random Movement.
-2. Random movement may be used a succesful tactic to reach convention with a high number of agents and lower space. 
-3. Eavesdroppers when allowed to play the Signaling game in the next rounds can optimise the game in all conditions (traditional and asymmetric) in two ways: 
- - By increasing the chances of reaching convention
- - By decreasing the number of interactions it takes among agents to reach convention
- ```
+1. As expected, biased movement outperformes Random Movement when it comes establishing signaling systems.
+2. Random movement may be used a succesful tactic to reach convention with more number of agents and lesser space. 
+3. Eavesdroppers when allowed to play the Signaling game (in the subsequent rounds) can optimise the game in all conditions (traditional and asymmetric) in two ways: 
+ -> By increasing the chances of reaching convention
+ -> By decreasing the number of interactions it takes among agents to reach convention
+ 
