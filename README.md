@@ -18,8 +18,21 @@ For Model 2, we will examine how the performance of the model varies as we vary 
 
 For evaluation check:  402Analysis.ipynb 
 
-### Data Features
-Kaggle (author of the dataset) has provided data dictionary detailing all of the features of the dataset. To view click <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data">here</a>. 
+### Data Features Model 1
+Traditional Variables:
+
+- Number of Agents (num-agents): # of agents on the grid
+- Number of Signals (num-signals): # of signals sender possess
+- Number of States (num-states): # of signals world states
+
+### Data Features Model 2
+Other than the Traditional Variables, the Naturalistic Variables were included:
+- Movement: Allows agents to switch between directed and random movement
+- Eavesdropping: Other than the traditional context, this model enables us to allow eavesdroppers to eavesdrop as well as play the signaling game in the next rounds.
+
+- Number of Agents (num-agents): # of agents on the grid
+- Number of Signals (num-signals): # of signals sender possess
+- Number of States (num-states): # of signals world states
 
 ### Used Libraries 
 ```
