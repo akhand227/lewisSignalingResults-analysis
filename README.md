@@ -11,20 +11,17 @@ Data was then  generated from the following model and its Naturalstic extension.
 Model 1 is evaluated by comparing the traditional Lewis Signaling model's (Model 1) results with past literature. This helps us establish confidence in our Lewis model while transitioning the model to naturalistic conditions.
 
 ### Evaluation Model 2
-Model 1 is evaluated by comparing the traditional Lewis Signaling model's (Model 1) results with past literature. This helps us establish confidence in our Lewis model while transitioning the model to naturalistic conditions.
-
-**After training the RandomForestRegressor model following was performed:
- - Hypyterparameter tuning
- - Feature importance
- - Mean Absolute Error
- - RMSE
+For Model 2, we will examine how the performance of the model varies as we vary certain naturalistic parameters. As a result, the study provide a comparitive analysis of the model's performance under different conditions.<br>
+**To check whether optimisation of Singalling system occurs; we will be looking at two parameters namely:
+- Sucessful number of games: Games where convention was established
+- Average number of interactions/games: For the convention to be established
 
 For evaluation check:  402Analysis.ipynb 
 
 ### Data Features
 Kaggle (author of the dataset) has provided data dictionary detailing all of the features of the dataset. To view click <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data">here</a>. 
 
-### Used Libraries and Pre-Defined Metrics/Models
+### Used Libraries 
 ```
 import pandas as pd
 import numpy as np
