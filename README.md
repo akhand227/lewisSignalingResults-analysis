@@ -23,7 +23,6 @@ For evaluation check:  402Analysis.ipynb
 ### Data Features Model 1
 Traditional Variables:
 
-- Number of Agents (num-agents): # of agents on the grid
 - Number of Signals (num-signals): # of signals sender possess
 - Number of States (num-states): # of signals world states
 
